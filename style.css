@@ -1,0 +1,17 @@
+body {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.intro-banner{
+	color: red;
+	background-color:yellow;
+	height:200px;
+	background-image: url(http://us.123rf.com/400wm/400/400/rudi1976/rudi19761102/rudi1976110200014/8985715-chicago-skyline.jpg);
+	background-size: cover;
+	width: 100%;
+}
+
+
+#myname{color:green;}
